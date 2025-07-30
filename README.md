@@ -1,5 +1,3 @@
----
-
 # 🔍 SwaggerPathFilter
 
 **SwaggerPathFilter** is a simple CLI tool that lets you **filter only the desired endpoints from a Swagger JSON file** and generate clean, focused API documentation using **ReDoc**.
@@ -24,7 +22,7 @@ https://<your-api-domain>/swagger/v1/swagger.json
 
 1. **Download and unzip the CLI tool**:
 
-   👉 [Download ReadyToRun Build](/ReadyToRun/Build.zip)
+   👉 [Download ReadyToRun Build](ReadyToRun/Build.zip)
 
 2. **Create a plain text file** (e.g., `endpoints.txt`) with each desired path on a new line:
 
