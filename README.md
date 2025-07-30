@@ -22,7 +22,7 @@ https://<your-api-domain>/swagger/v1/swagger.json
 
 1. **Download and unzip the CLI tool**:
 
-   👉 [Download ReadyToRun Build](ReadyToRun/Build.zip)
+   👉 [Download ReadyToRun Build](ReadyToRun/Build.rar)
 
 2. **Create a plain text file** (e.g., `endpoints.txt`) with each desired path on a new line:
 
